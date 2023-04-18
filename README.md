@@ -25,4 +25,10 @@
 * The dataset I used came from the NCEI/NCDC, just like the data from the paper. The paper, however, used first order summaries of the day. I could not access this data, but knew that those measurements generally came from airport stations and therefore used airport data from the cities. If the datasets are not the exact same, they are very similar, as evidenced by the coherence between my figure's boxplot calculations and those from the paper.
 * Every other difference (as mentioned in the previous section) was superficial and small, consisting of only slight formatting variations.
 
+## Connection to My Group's Literature Review/Research
+My group is interested in the impacts of ENSO on temperature and precipitation anomalies in the Midwest and SE US (eventually, we plan to show how other oscillations interact with ENSO phases and add to/subtract from typical ENSO impacts in these regions). This figure, of course, demonstrates snowfall statistics for the NW US. Nevertheless, a very similar process can be used to find snowfall (and, for that matter, temperature and other precipitation) statistics in the Midwest and SE US during the 3 ENSO phases. These results would show, for example, that ENSO neutral phases actually produce the most snowfall in the Midwest versus El Nino or La Nina (according to Smith and O'Brien). So, while the above figures demonstrate ENSO effects outside of my group's geographical range of interest, a similar process can be used to obtain and graph data from our two regions.
+
+## Source
+Smith, S. R., and J. J. O’Brien, 2001: Regional Snowfall Distributions Associated with ENSO: Implications for Seasonal Forecasting. Bull. Am. Meteorol. Soc., 82, 1179–1192, https://doi.org/10.1175/1520-0477(2001)082<1179:RSDAWE>2.3.CO;2. 
+
 # Thus concludes My Analysis of My Homework 3 for METR3334
